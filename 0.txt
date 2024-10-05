@@ -1,0 +1,5 @@
+TECH
+
+hex:1014/f5d/ddf/dc8→dec:4116/3933/3551/3528
+char:1951→ASCIIdec:49/57/53/49
+ASCIIdec:84/69/67/72→char:TECH
